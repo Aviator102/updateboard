@@ -1,0 +1,5 @@
+Version 5.0.1
+
+- Fixed rental extension
+- Improved slide mode
+- Reduced memory usage
